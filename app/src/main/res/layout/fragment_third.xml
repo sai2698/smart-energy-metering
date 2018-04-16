@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:diagonal="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.sainaveen.trail1.first">
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graph"
+       android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dip"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+    <com.jjoe64.graphview.GraphView
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/graph"
+        android:layout_width="match_parent"
+        android:layout_height="150dip"
+        android:id="@+id/graph1" />
+    <com.jjoe64.graphview.GraphView
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/graph1"
+        android:layout_width="match_parent"
+        android:layout_height="150dip"
+        android:id="@+id/graph2" />
+
+</RelativeLayout>

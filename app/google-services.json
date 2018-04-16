@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1080268863612",
+    "firebase_url": "https://projecttrail-cbddb.firebaseio.com",
+    "project_id": "projecttrail-cbddb",
+    "storage_bucket": "projecttrail-cbddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080268863612:android:5cff589038d849e1",
+        "android_client_info": {
+          "package_name": "com.example.sainaveen.trail1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080268863612-ipapl8p61746v8n0vphl2gf0s0jgecjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sainaveen.trail1",
+            "certificate_hash": "34191205d885cb559de88d2605dbdc98b552a57f"
+          }
+        },
+        {
+          "client_id": "1080268863612-t8beqhq7vipmb96h4iassg1flph9ghit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimfCAs4pXjucKGMil3-VG6kVjxPC4dFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080268863612-t8beqhq7vipmb96h4iassg1flph9ghit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
